@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/orlamee_" target="blank"><img src="https://img.shields.io/twitter/follow/orlamee_?logo=twitter&style=for-the-badge" alt="orlamee_" /></a> </p>
 
-- 🔭 I’m currently working on **Fundall, Medispark**
-
-- 🌱 I’m currently learning **Vuejs**
-
-- 👨‍💻 All of my projects are available at [https://olamilekanakindele.com/portfolio/](https://olamilekanakindele.com/portfolio/)
-
 - 💬 Ask me about **React, Laravel, CSS(Bootstrap) and Wordpress**
 
 - 📫 How to reach me **meetmichaelakindele@gmail.com**
