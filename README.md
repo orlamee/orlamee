@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Orlamee</h1>
+<h3 align="center">Hi 👋, I'm Orlamee</h3>
 <p align="center">Creative Front-End Developer offering 6+ years of experience providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies</p>
 
 <p align="left"> <a href="https://twitter.com/orlamee_" target="blank"><img src="https://img.shields.io/twitter/follow/orlamee_?logo=twitter&style=for-the-badge" alt="orlamee_" /></a> </p>
