@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **meetmichaelakindele@gmail.com**
 
-- 📄 Know about my experiences [https://olamilekanakindele.com/wp-content/uploads/2022/01/Olamilekan-Frontend-Developer.pdf](https://olamilekanakindele.com/wp-content/uploads/2022/01/Olamilekan-Frontend-Developer.pdf)
-
 - ⚡ Fun fact **I am a loner!**
 
 <h6 align="left">Connect with me:</h6>
