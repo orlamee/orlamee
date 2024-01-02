@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/orlamee_" target="blank"><img src="https://img.shields.io/twitter/follow/orlamee_?logo=twitter&style=for-the-badge" alt="orlamee_" /></a> </p>
 
-- 💬 Ask me about **React, Nextjs, CSS(Bootstrap and Tailwind) and Wordpress**
+- 💬 Ask me about **React, Nextjs, TypeScript, CSS(Bootstrap and Tailwind) and Wordpress**
 
 - 📫 How to reach me **meetmichaelakindele@gmail.com**
 
