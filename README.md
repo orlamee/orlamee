@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm Orlamee</h3>
-<p align="center">Creative Front-End Developer offering 6+ years of experience providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies</p>
+<h3 align="center">Hi 👋, I'm Olamilekan</h3>
+<p align="center">I'm a seasoned front-end engineer with a strong passion for crafting exceptional user interfaces. Over the years, I've honed my skills to create immersive and visually stunning web applications. My commitment to staying up-to-date with the latest design trends and technologies allows me to consistently deliver top-notch user experiences. Whether it's bringing a concept to life or optimizing an existing interface, I'm dedicated to enhancing user engagement and satisfaction.</p>
 
 <p align="left"> <a href="https://twitter.com/orlamee_" target="blank"><img src="https://img.shields.io/twitter/follow/orlamee_?logo=twitter&style=for-the-badge" alt="orlamee_" /></a> </p>
 
