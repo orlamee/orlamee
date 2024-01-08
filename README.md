@@ -5,9 +5,8 @@
 
 - 💬 Ask me about **React, Nextjs, TypeScript, CSS(Bootstrap and Tailwind) and Wordpress**
 
-- 📫 How to reach me **meetmichaelakindele@gmail.com**
+- 📫 Reach me **meetmichaelakindele@gmail.com**
 
-- ⚡ Fun fact **I am a loner!**
 
 <h6 align="left">Connect with me:</h6>
 <p align="left">
